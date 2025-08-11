@@ -4,6 +4,6 @@ Bindings to libmpg123, allowing fast MPG1/2/3 decoding.
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/Shirakumo/cl-mpg123.git |
-| commit  | f148505                                        |
+| commit  | f7796cd                                        |
 | systems | cl-mpg123                                      |
 |---------+------------------------------------------------|
